@@ -8,4 +8,5 @@ if(array.length>1)
   else array.join(", ")
   end
 end
+else array
 end
