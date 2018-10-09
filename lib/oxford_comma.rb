@@ -1,5 +1,6 @@
 def oxford_comma(array)
 last=array.pop
-last=last<<""
+with_and="and "<< last
 array.push(last)
+array.join(,)
 end
