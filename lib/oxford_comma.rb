@@ -1,4 +1,5 @@
 def oxford_comma(array)
-last=array.pop()
-array.insert()
+last=array.pop
+last=last+""
+array.push(last)
 end
