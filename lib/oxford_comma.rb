@@ -7,6 +7,6 @@ if(array.length>1)
     array.join(" ")
   else array.join(", ")
   end
-end
 else array
+end
 end
